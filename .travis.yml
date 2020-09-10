@@ -6,3 +6,5 @@ node_js:
 cache:
   directories:
     - "$HOME/.npm"
+    
+ bash <(curl -s https://codecov.io/bash) -t 26b28202-dafd-499f-8398-d5ed889556a8
